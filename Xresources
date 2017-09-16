@@ -1,9 +1,47 @@
 ! ------------------------------------------------------------------------------
-! ! ROFI Color theme
-! ! User: Rasi
-! ! ------------------------------------------------------------------------------
+! ROFI Color theme
+! ------------------------------------------------------------------------------
 rofi.color-enabled: true
-rofi.color-window: #ff2b37, #002b37, #003642
-rofi.color-normal: #002b37, #819396, #002b37, #003642, #819396
-rofi.color-active: #002b37, #008ed4, #002b37, #003642, #008ed4
-rofi.color-urgent: #002b37, #da4281, #002b37, #003642, #da4281
+rofi.color-window: #16130f, #16130f, #5a5047
+rofi.color-normal: #16130f, #5a5047, #16130f, #16130f, #826d57
+rofi.color-active: #393939, #268bd2, #393939, #268bd2, #205171
+rofi.color-urgent: #393939, #f3843d, #393939, #268bd2, #ffc39c
+rofi.hide-scrollbar: true
+
+! special
+*foreground: #f1e3d4
+*background: #16130f
+*cursorColor: #f1e3d4
+
+! black
+*color0: #16130f
+*color8: #5a5047
+
+! red
+*color1: #826d57
+*color9: #826d57
+
+! green
+*color2: #57826d
+*color10: #57826d
+
+! yellow
+*color3: #6d8257
+*color11: #6d8257
+
+! blue
+*color4: #6d5782
+*color12: #6d5782
+
+! magenta
+*color5: #82576d
+*color13: #82576d
+
+! cyan
+*color6: #576d82
+*color14: #576d82
+
+! white
+*color7: #a39a90
+*color15: #dbd6d1
+
